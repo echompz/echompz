@@ -5,7 +5,7 @@ my name is **xten**🌻! i'm a 3rd year computer engineering student at feu inst
 ### about me
 
 - 🎨 Designer from the Philippines
-- 🔭 Currently working on my first website and sensor tech
+- 🔭 Currently working on one project a week and sensor tech
 - 📫 Reach me at: [cristendtolentino@gmail.com](mailto:cristendtolentino@gmail.com)
 
 ### let's connect~
