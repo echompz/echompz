@@ -43,8 +43,15 @@ my name is **xten**🌻! i'm a 3rd year computer engineering student at feu inst
 
 [![xtenlei's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtenlei)](https://github.com/xtenlei/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtenlei&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echompz&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtenlei&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echompz&hide_progress=true)
 
 -->
+
+<a href="https://github.com/echompz/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=echompz" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=echompz&layout=compact&langs_count=8&card_width=320" />
+</a>
