@@ -50,8 +50,8 @@ my name is **xten**🌻! i'm a 3rd year computer engineering student at feu inst
 -->
 
 <a href="https://github.com/echompz/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=echompz" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=echompz" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=echompz&layout=compact&langs_count=8&card_width=220" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=echompz&layout=compact&langs_count=8&card_width=270" />
 </a>
