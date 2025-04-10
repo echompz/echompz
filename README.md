@@ -44,7 +44,10 @@ my name is cristen lei d. tolentino, but ppl usually call me **xten**🌻! i'm a
   ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
   ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
   ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
-  
+
+## hardware
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -75,5 +78,9 @@ my name is cristen lei d. tolentino, but ppl usually call me **xten**🌻! i'm a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/>
-</p> ---!>
+</p> 
+
+
+https://github.com/Ileriayo/markdown-badges?source=post_page-----36957caa711c---------------------------------------
+---!>
 
