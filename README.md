@@ -1,6 +1,6 @@
 # hii! i'm xten! 👋 ^w^
 
-my name is **xten**🌻! i'm a 3rd year computer engineering student at feu institute of technology~
+my name is cristen lei d. tolentino, but ppl usually call me **xten**🌻! i'm a 3rd year computer engineering student at feu institute of technology~
 
 ### about me
 
